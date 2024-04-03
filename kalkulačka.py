@@ -23,7 +23,6 @@ while True:
  else:
   print("napiš správnou operaci")
 
-break 
 
 
 
